@@ -56,6 +56,7 @@ Future update :
 
 -Upgrade Olimex to Octoprint
 
+Cudo's to Vil Coyote for creating the mount that holds the bltouch
  
 Forked from : https://github.com/CoyoteProd/Leapfrog-Creatr-HS/tree/master/Marlin%20BLTouch
 
