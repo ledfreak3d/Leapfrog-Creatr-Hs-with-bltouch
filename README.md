@@ -10,14 +10,13 @@ These releases seems to break communication with the display (Olimex A20).
 ( Probably because by defaut Creatr HS use Checksumed Protocol ? )
 ### WARNING ! 	
 
+![BLTouch img](Pics/BLTouch.jpg)
+
 
 ## Marlin BLTouch (same Standard settings)
 - Add BLTouch
-
-![BLTouch img](Marlin%20BLTouch/Pics/BLTouch.jpg)
- 
- - Connect Z (Black/White) on Zmin connector
- - Connect SERVO0_PIN on 52 (SCK) (physical pin 20 of ATMega2560) (see pictures)
+- Connect Z (Black/White) on Zmin connector
+- Connect SERVO0_PIN on 52 (SCK) (physical pin 20 of ATMega2560) (see pictures)
  
 Once installed, use this sequence to determine if the BLTouch is setup properly :
 
@@ -44,11 +43,16 @@ Once installed, use this sequence to determine if the BLTouch is setup properly 
     
   After this Z offset needs to be callibrated !!!
   A good video guide to use for this is  https://www.youtube.com/watch?v=y_1Kg45APko&list=FLQG47LoNpPy0yjQeLG1prTA&index=2&t=0s
+  
+  Also make sure you setup your gcode correctly so auto bed leveling is done on every print
+  See Simplify3d profiles for more info
 
 			
 Future update : 
  
- - New Display interface for Olimex A20
+-Upgrade to 32bit controller board
+-Replacing the Olimex display for a touch display
+-Upgrade Olimex to Octoprint
 
  
 Forked from : https://github.com/CoyoteProd/Leapfrog-Creatr-HS/tree/master/Marlin%20BLTouch
