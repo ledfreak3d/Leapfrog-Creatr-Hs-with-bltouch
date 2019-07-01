@@ -10,7 +10,7 @@ These releases seems to break communication with the display (Olimex A20).
 ( Probably because by defaut Creatr HS use Checksumed Protocol ? )
 ### WARNING ! 	
 
-![BLTouch img](Pics/BLTouch.jpg)
+![BLTouch img](Pics/BLTouch.JPG)
 
 
 ## Marlin BLTouch (same Standard settings)
@@ -51,9 +51,12 @@ Once installed, use this sequence to determine if the BLTouch is setup properly 
 Future update : 
  
 -Upgrade to 32bit controller board
+
 -Replacing the Olimex display for a touch display
+
 -Upgrade Olimex to Octoprint
 
+Cudo's to Vil Coyote for creating the mount that holds the bltouch
  
 Forked from : https://github.com/CoyoteProd/Leapfrog-Creatr-HS/tree/master/Marlin%20BLTouch
 
