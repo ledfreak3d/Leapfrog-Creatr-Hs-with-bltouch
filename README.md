@@ -10,7 +10,7 @@ These releases seems to break communication with the display (Olimex A20).
 ( Probably because by defaut Creatr HS use Checksumed Protocol ? )
 ### WARNING ! 	
 
-![BLTouch img](Pics/BLTouch.jpg)
+![BLTouch img](Pics/BLTouch.JPG)
 
 
 ## Marlin BLTouch (same Standard settings)
