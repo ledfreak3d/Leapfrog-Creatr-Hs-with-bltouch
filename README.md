@@ -51,7 +51,9 @@ Once installed, use this sequence to determine if the BLTouch is setup properly 
 Future update : 
  
 -Upgrade to 32bit controller board
+
 -Replacing the Olimex display for a touch display
+
 -Upgrade Olimex to Octoprint
 
  
