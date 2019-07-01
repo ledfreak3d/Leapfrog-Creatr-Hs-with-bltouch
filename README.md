@@ -49,8 +49,7 @@ Once installed, use this sequence to determine if the BLTouch is setup properly 
 Future update : 
  
  - New Display interface for Olimex A20
- - (Add 200v Heated Bed with SSR)
- - (Change Nozzles by Volcano E3D)
+
  
 Forked from : https://github.com/CoyoteProd/Leapfrog-Creatr-HS/tree/master/Marlin%20BLTouch
 
